@@ -5,6 +5,9 @@
 [submodule "CoMiRe"]
 	path = CoMiRe
 	url = https://github.com/cran/CoMiRe
+[submodule "glt"]
+	path = glt
+	url = https://github.com/tonycanale/glt
 [submodule "rmp"]
 	path = rmp
 	url = https://github.com/cran/rmp
